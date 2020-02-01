@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  divd-site:
+    build:
+      context: .
+    container_name: divd-site
+    #command: /bin/sh -c "rm -rf _site/* && bundle exec jekyll serve --incremental --host=0.0.0.0 --watch"
+    command: /bin/sh -c "bundle exec jekyll serve --incremental --host=0.0.0.0 --watch"
+    ports:
+      - "4000:4000"
+    environment:
+      JEKYLL_GITHUB_TOKEN: ${JEKYLL_GITHUB_TOKEN}

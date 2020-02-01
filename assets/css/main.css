@@ -2018,7 +2018,6 @@ ul.icons {
     opacity: 0.6;
     position: absolute;
     top: 0;
-    webkit-linear-gradientidth: 100%;
     width: 100%;
     z-index: 1; }
   #banner.small {
@@ -2208,7 +2207,7 @@ ul.icons {
 #footer {
   background-color: #111111;
   color: rgba(255, 255, 255, 0.5);
-  padding: 8rem 0 6rem 0 ; }
+  padding: 1rem 0; }
   #footer input, #footer select, #footer textarea {
     color: #ffffff; }
   #footer a {
@@ -2431,11 +2430,16 @@ body {
   #header > .logo {
     color: #ffffff;
     font-size: 1rem;
-    font-weight: 600;
     height: inherit;
     line-height: inherit;
     padding: 0 1.25rem;
     text-decoration: none; }
+    #header > .logo > a {
+      color: #ffffff;
+      font-weight: 600;
+      text-decoration: none; }
+      #header > .logo > a:hover {
+        text-decoration: underline; }
   #header > nav > a {
     color: inherit;
     display: inline-block;
@@ -2667,6 +2671,8 @@ body {
   box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025);
   margin-bottom: 2rem;
   padding: 3rem; }
+  #main .content img {
+    max-width: 100%; }
   @media screen and (max-width: 980px) {
     #main .content {
       padding: 2rem; } }
@@ -2791,7 +2797,6 @@ body {
     right: 0;
     text-align: right;
     top: 0;
-    vertical-align: middle;
     width: 7rem; }
     #menu .close:before {
       -moz-osx-font-smoothing: grayscale;
@@ -2820,3 +2825,12 @@ body.is-menu-visible #menu {
   transform: translateX(0);
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
+
+/** Custom rules */
+#main .content .newsitem h3 a {
+  color: #ce1b28; }
+#main .content .newsitem h3 em {
+  font-size: 1rem;
+  text-align: right;
+  float: right;
+  text-transform: none; }
