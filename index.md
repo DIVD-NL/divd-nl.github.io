@@ -48,19 +48,19 @@ description: DIVD
     <section>
         <div class="content">
             <header>
-                <a href="/contact" class="icon fa-envelope-o"><span class="label">Icon</span></a>
-                <h3>CONTACT</h3>
+                <a href="#" class="icon fa-address-book-o"><span class="label">Icon</span></a>
+                <h3>PARTNERS</h3>
             </header>
-            <p>We are in the phase of starting up, so don't send us vulnerability reports yet. Any other enquiries are welcome.</p>
+            <p>Who we collaborate with, our sponsors and references</p>
         </div>
     </section>
     <section>
         <div class="content">
             <header>
-                <a href="#" class="icon fa-address-book-o"><span class="label">Icon</span></a>
-                <h3>GO TO</h3>
+                <a href="/contact" class="icon fa-envelope-o"><span class="label">Icon</span></a>
+                <h3>CONTACT</h3>
             </header>
-            <p>The world of vulnerability research is growing rapidly. Want to do it yourself? Here we will provide some links.</p>
+            <p>We are in the phase of starting up, so don't send us vulnerability reports yet. Any other enquiries are welcome.</p>
         </div>
     </section>
 </div>
