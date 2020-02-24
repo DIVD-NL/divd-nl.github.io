@@ -23,6 +23,7 @@ Meanwhile, their research also serves as an empirical base to discover trends in
 - [Floor Terra](https://responsibledisclosure.nl/): Privacy advisor and researcher
 - [Matthijs Koot](https://www.linkedin.com/in/mrkoot/): Researcher
 - [Lennaert Oushoorn](https://www.linkedin.com/in/lennaertoudshoorn/): Researcher
+- [Sander Spierenburg](https://www.linkedin.com/in/sspierenburg/): Researcher
 
 <hr>
 ### Board
