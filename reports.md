@@ -1,13 +1,13 @@
 ---
 layout: default
 title: reports
-header: reports
+header: case reports
 ---
 <header>
-	<h2>Not a regular office</h2>
+	<h2>Reports</h2>
 </header>
 
-These reports give you insight into the kinds of vulnerabilities we find in general and how to fix them. Findings on specific organisations are only published after vulnerabilities are fixed and in negotiation with the stakeholders involved. We are not journalists, we only try to make the internet safer.
+These case reports give you insight into the kinds of vulnerabilities we found, the numbers and how we helped to fix them. We don't mention specific organisations who were vulnerable, unless they are fine with that. We are not journalists, we only try to make the internet safer.
 
 {% assign pages = site.pages |reverse %}
 {% for p in pages %}
