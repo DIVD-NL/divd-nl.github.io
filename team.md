@@ -26,6 +26,7 @@ Meanwhile, their research also serves as an empirical base to discover trends in
 - [Hans van de Looy](https://www.linkedin.com/in/hansvandelooy/): Ethical Conscience
 - [Barry van Kampen](https://www.linkedin.com/in/bvankampen/): Researcher
 - [Sander Spierenburg](https://www.linkedin.com/in/sspierenburg/): Researcher
+- [Jeroen van de Weerd](https://www.linkedin.com/in/jvandeweerd/): Web Editor Security Meldpunt
 - [Brenno de Winter](https://www.linkedin.com/in/brenno/): Privacy Officer
 
 <hr>
@@ -43,10 +44,3 @@ Hacker initiatives like these, tend to have their own dynamics: sparks lead to f
 - [Petra Oldengarm](https://www.linkedin.com/in/petraoldengarm/)
 - [Herbert Bos](https://www.linkedin.com/in/herbertbos1/)
 
-<hr>
-### Ethics Committee
-We are establishing a committee to deal with the tougher disclosures. Sometimes found vulnerabilities may not be fixed due to reluctance at the side of the owner or supplier of the system and we need to push disclosure to put public pressure on them. Still, we don’t want to disclose vulnerabilities which can be abused to the extent we put the users at risk. If our guidelines for Coordinated Vulnerability Disclosure prove insufficient, this committee will judge on a case to case bases, building a case base we can use for further disclosures.
-
-<hr>
-### Support
-Oh yeah, we also need more of that...
