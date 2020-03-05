@@ -28,6 +28,7 @@ Meanwhile, their research also serves as an empirical base to discover trends in
 - [Sander Spierenburg](https://www.linkedin.com/in/sspierenburg/): Researcher
 - [Jeroen van de Weerd](https://www.linkedin.com/in/jvandeweerd/): Web Editor Security Meldpunt
 - [Brenno de Winter](https://www.linkedin.com/in/brenno/): Privacy Officer
+- [Richard Masmeijer](https://www.linkedin.com/in/richard-masmeijer/): Responder
 
 <hr>
 ### Board
