@@ -13,8 +13,8 @@ These case reports give you insight into the kinds of vulnerabilities we found, 
 {% for p in pages %}
 {% if p.url contains "/reports/" and p.url != page.url %}
 <hr>
-### [{{ p.report}}]({{p.title}})
-*{{ p.date}}, by {{ p.author | default: "anonymous" }}*
+### [{{ p.title}}]({{p.url}})
+*{{ p.date }}, by {{ p.author | default: "anonymous" }}*
 
 {{ p.excerpt }}
 
