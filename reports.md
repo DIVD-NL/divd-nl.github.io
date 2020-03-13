@@ -13,7 +13,7 @@ These case reports give you insight into the kinds of vulnerabilities we found, 
 {% for p in pages %}
 {% if p.url contains "/reports/" and p.url != page.url %}
 <hr>
-### [{{ p.Report DIVD-2020-00001: Widespread Citrix Vulnerability }}]({{p.url}})
+### [{{ p.Report DIVD-2020-00001: Widespread Citrix Vulnerability }}]({{p.2020-000001-Widespread-Citrix-Vulnerability.md}})
 *{{ p.13 March 2020 }}, by {{ p.Chris van 't Hof | default: "anonymous" }}*
 
 {{ p.excerpt }}
