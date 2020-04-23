@@ -247,8 +247,12 @@ hr {
   max-width: calc(100% - 6rem); }
   @media screen and (max-width: 480px) {
     .inner {
-      max-width: calc(100% - 3rem); } }
-
+      max-width: calc(100% - 3rem); 
+    } 
+    .inner img {
+      max-width: inherit;
+    }
+  }
 /* Button */
 input[type="submit"],
 input[type="reset"],
