@@ -9,8 +9,11 @@ header: partners
 DIVD is a non-profit organisation run by volunteers and a network of likeminded organisations who we share knowledge with or support us financially.  
 <hr>
 ### ECP
-We have a flexible workplace at ECP:<br>
+We have a flexible workplace at ECP, the Dutch platform for the information society.<br>
 
 ### SIDN Fund
-SIDN Fund stands for ‘a strong internet for all’. They provide financial support to ideas and projects that aim to make the internet stronger or that use the internet in innovative ways. We are very thankful SIDN Fund is currently financing the kick start of DIVD. 
+SIDN Fund stands for ‘a strong internet for all’. It provides financial support to ideas and projects that aim to make the internet stronger or that use the internet in innovative ways. We are very thankful SIDN Fund is currently supporting the kick start of DIVD. 
+
+### Sponsoring
+Contact us if you want to sponsor DIVD and we will provide you a sponsoring package. 
 
