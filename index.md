@@ -48,7 +48,7 @@ description: DIVD
     <section>
         <div class="content">
             <header>
-                <a href="#" class="icon fa-address-book-o"><span class="label">Icon</span></a>
+                <a href="/partners" class="icon fa-address-book-o"><span class="label">Icon</span></a>
                 <h3>PARTNERS</h3>
             </header>
             <p>Who we collaborate with, our sponsors and references</p>
