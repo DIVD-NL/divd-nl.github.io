@@ -13,9 +13,18 @@ description: DIVD
         <div class="content">
             <header>
                 <a href="/team" class="icon fa-vcard-o"><span class="label">Icon</span></a>
-                <h3>OUR TEAM</h3>
+                <h3>Team</h3>
             </header>
             <p>DIVD is a platform for security researchers to report vulnerabilities, supported by volunteers.</p>
+        </div>
+    </section>
+    <section>
+        <div class="content">
+            <header>
+                <a href="/code" class="icon fa-balance-scale-o"><span class="label">Icon</span></a>
+                <h3>Code of Conduct</h3>
+            </header>
+            <p>How and why we scan and report.</p>
         </div>
     </section>
     <section>
@@ -42,7 +51,7 @@ description: DIVD
                 <a href="https://www.securitymeldpunt.nl" class="icon fa-bell-o"><span class="label">Icon</span></a>
                 <h3>Meldpunt (Dutch)</h3>
             </header>
-            <p>Security Meldpunt deals with vulnerability disclosures in the Netherlands and is managed by Frank Breedijk.</p>
+            <p>Our Security Meldpunt deals with vulnerability disclosures in the Netherlands.</p>
         </div>
     </section>
     <section>
