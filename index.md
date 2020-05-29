@@ -21,7 +21,7 @@ description: DIVD
     <section>
         <div class="content">
             <header>
-                <a href="/code" class="icon fa-balance-scale-o"><span class="label">Icon</span></a>
+                <a href="/code" class="icon fa-balance-scale"><span class="label">Icon</span></a>
                 <h3>Code of Conduct</h3>
             </header>
             <p>How and why we scan and report.</p>
