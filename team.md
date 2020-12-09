@@ -17,7 +17,7 @@ We represent a team of highly skilled security researchers who seek and report v
 - [Mattijs van Ommeren](https://www.linkedin.com/in/mattijsvanommeren/): Researcher
 - [Edwin van Andel](https://www.linkedin.com/in/yafsec/): Unique Intelligence
 - [Raymond Bierens](https://www.linkedin.com/in/raymond-bierens-7a1508/): Advisor
-- [Frank Breedijk](https://www.linkedin.com/in/seccubus/): Researcher and building response capacity with the [Dutch Security Meldpunt](https://www.securitymeldpunt.nl/)
+- [Frank Breedijk](https://www.linkedin.com/in/seccubus/): CSIRT Manager
 - [Matthijs Koot](https://www.linkedin.com/in/mrkoot/): Researcher
 - [Lennaert Oushoorn](https://www.linkedin.com/in/lennaertoudshoorn/): Researcher
 - [Hans van de Looy](https://www.linkedin.com/in/hansvandelooy/): Ethical Conscience
