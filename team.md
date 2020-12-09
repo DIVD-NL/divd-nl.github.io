@@ -29,7 +29,7 @@ We represent a team of highly skilled security researchers who seek and report v
 - [Richard Masmeijer](https://www.linkedin.com/in/richard-masmeijer/): Responder
 - [Wietse Boonstra](https://www.linkedin.com/in/wietse-boonstra/): Researcher
 - [Andre Koot](https://www.linkedin.com/in/meneer/): Identity and Access Management
-- [Célistine Oosting](): Researcher
+- [Célistine Oosting](https://www.linkedin.com/in/c%C3%A9listine-o-b6ab85198): Researcher
 - [Fleur van Leusden](https://www.linkedin.com/in/fleur-van-leusden-356bb054/): Chief Information Security Officer
 
 <hr>
