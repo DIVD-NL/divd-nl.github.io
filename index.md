@@ -51,7 +51,7 @@ description: DIVD
                 <a href="https://www.securitymeldpunt.nl" class="icon fa-bell-o"><span class="label">Icon</span></a>
                 <h3>CSIRT</h3>
             </header>
-            <p>Our CSIRT "Security Meldpunt" deals with vulnerability disclosures in the Netherlands.</p>
+            <p>Our Computer Security Incident Response Team "Security Meldpunt" reports vulnerabilities with the Dutch IP range.</p>
         </div>
     </section>
     <section>
@@ -69,7 +69,7 @@ description: DIVD
                 <a href="/contact" class="icon fa-envelope-o"><span class="label">Icon</span></a>
                 <h3>CONTACT</h3>
             </header>
-            <p>We are in the phase of starting up, so don't send us vulnerability reports yet. Any other enquiries are welcome.</p>
+            <p>We are a network of security researchers who mainly work online.</p>
         </div>
     </section>
 </div>
