@@ -49,9 +49,9 @@ description: DIVD
         <div class="content">
             <header>
                 <a href="https://www.securitymeldpunt.nl" class="icon fa-bell-o"><span class="label">Icon</span></a>
-                <h3>Meldpunt (Dutch)</h3>
+                <h3>CSIRT</h3>
             </header>
-            <p>Our Security Meldpunt deals with vulnerability disclosures in the Netherlands.</p>
+            <p>Our CSIRT "Security Meldpunt" deals with vulnerability disclosures in the Netherlands.</p>
         </div>
     </section>
     <section>
